@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
 <channel>
-<title>菜鸟教程首页</title>
+<title>test report share</title>
 <link>http://www.runoob.com</link>
-<description>关注互联网和搜索引擎的IT科技博客</description>
+<description>内部分享测试报告</description>
 <generator>RainbowSoft Studio Z-Blog 2.3 Avengers Build 180518</generator>
-<language>zh-CN</language>
-<pubDate>Mon, 13 Jul 2020 23:57:52 +0800</pubDate>
-<item><title>xml教程！！！！！！</title>
+
+<item>
+<title>xml教程！！！！！！</title>
 <author>user@gmail.com (guest)</author>
 <link>http://www.runoob.com/xml</link>
-<pubDate>Mon, 13 Jul 2020 23:55:39 +0800</pubDate>
-<guid>http://www.runoob.com/xml</guid>
-<description><![CDATA[<p>再度升级了隐私保
-]]>
-</description>
-<category>业界动态</category>
-<comments>https://www.williamlong.info/archives/6130.html#comment</comments>
-<wfw:commentRss>https://www.williamlong.info/feed.asp?cmt=6130</wfw:commentRss>
 </item>
 </channel>
 </rss>
