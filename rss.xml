@@ -1,57 +1,23 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
-<channel>
-<title>test report share</title>
-<link>http://www.runoob.com</link>
-<description>内部分享测试报告</description>
-<generator>RainbowSoft Studio Z-Blog 2.3 Avengers Build 180518</generator>
+  <channel>
+    <title>test report share</title>
+    <link>http://www.runoob.com</link>
+    <description>内部分享测试报告</description>
+    <generator>RainbowSoft Studio Z-Blog 2.3 Avengers Build 180518</generator>
 
-<item>
-<title>xml教程！！！！！！</title>
-<author>user@gmail.com (guest)</author>
-<link>http://www.runoob.com/xml</link>
-</item>
-<item>
-<title>xml教程！！！！！！</title>
-<author>user@gmail.com (guest)</author>
-<link>http://www.runoob.com/xml</link>
-<item>
-<title>2020/07/14 14:33:48</title>
-<author>tester</author>
-<link>http://www.runoob.com/detail.html</link>
-</item>
+ 
+    <item>
+      <title>2020/07/14 15:06:49</title>
+      <author>tester</author>
+      <link>http://www.runoob.com/TestReport367373.html</link>
+    </item>
+    <item>
+      <title>2020/07/14 15:06:49</title>
+      <author>tester</author>
+      <link>http://www.runoob.com/TestReport252535353.html</link>
+    </item>
 
 
-<item>
-<title>2020/07/14 15:06:49</title>
-<author>tester</author>
-<link>http://www.runoob.com/TestReport367373.html</link>
-</item>
-<item>
-<title>2020/07/14 15:06:49</title>
-<author>tester</author>
-<link>http://www.runoob.com/TestReport252535353.html</link>
-</item>
-
-<item>
-<title>2020/07/14 15:15:55</title>
-<author>tester</author>
-<link>http://www.runoob.com/TestReport367373.html</link>
-</item>
-<item>
-<title>2020/07/14 15:15:55</title>
-<author>tester</author>
-<link>http://www.runoob.com/TestReport252535353.html</link>
-</item>
-
-<item>
-<title>2020/07/14 15:16:55</title>
-<author>tester</author>
-<link>http://www.runoob.com/TestReport252535353.html</link>
-</item>
-<item>
-<title>2020/07/14 15:16:55</title>
-<author>tester</author>
-<link>http://www.runoob.com/TestReport367373.html</link>
-</item>
-</channel>
+   
+  </channel>
 </rss>
