@@ -1,17 +1,18 @@
-## Welcome to My First blog
+## Welcome to My blog
 
-You can use the [editor on GitHub](https://github.com/jg8421/jg-blog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This blog is my personal blog based on github.
+Below are my book review articles of the book <<Who Moved My Cheese>>.
+Each article includes two sub-responses:
+	Response#1：What does this section say?
+	Response#2:What does this section mean for me?
+Hope you enjoy them!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###1.Having cheese makes you happy！
 
-```markdown
-Having cheese makes you happy！
 
-Response#1：What does this section say?
+####Response#1：What does this section say?
 As the beginning of the whole story, this section mainly introduced four characters' basic information and implied meanings:
 The maze:the place where you look for what you want.
 The mice
@@ -23,7 +24,7 @@ The little people
 Then comes to the finding process of the cheese for each team with different methods in the maze. After finding the cheese, they enjoyed it and gradually they took it for granted as of the cheese would never disappear.
 However, complete happiness without any worry and plan implies that something bad is going to happen in the near future, just like the old Chinese saying:" Life is unpredictable. Fortune and misfortune are two buckets in the same well. "(祸福相依）
 LET'S WAIT AND SEE
-Response#2:What does this section mean for me?
+####Response#2:What does this section mean for me?
 It is true that "Pride goes before a fall". As we lose the sense of risks and only indulge in happiness, we are short-sighted and are vulnerable to changes and unexpcted accidents. I once fell in love with a girl and immerse myself in love. Unfortunately we did not went to the same university. And  this love was broken due to lack of communication and trust. Sad story, isn't it? The lesson learned is that I should always be alert when great things happens. Stretegy and plan for future is always a must!
 
 
