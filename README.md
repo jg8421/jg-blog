@@ -20,6 +20,8 @@ Hope you enjoy them!
 命名格式：  名字.html    文件夹：名字_files
 
 ### 下面是md格式博客的用法
+https://guides.github.com/features/mastering-markdown/   
+自行复制
 [语法教程](https://guides.github.com/features/mastering-markdown/）
 
 
