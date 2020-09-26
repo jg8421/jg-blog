@@ -7,58 +7,20 @@ Each article includes two sub-responses:
 	Response#2:What does this section mean for me?
 Hope you enjoy them!
 
+### Below are some customs of the website syntax and tricks
 
-### 1.Having cheese makes you happy！
+1、https://jg8421.github.io/jg-blog/blog1  
+跳转到首页的blog1.md 所以自动省略md即可！！！！
+2、.md格式非常好用 基本上不用代码 专为博客设计
+3、首页的config.yml文件表示的是博客主题 一定不要删了
+4、首页的xml是之前的项目 可以实现rss订阅 不用管它
+5、如果是html格式网页需要两个文件：
+一个是主页html 
+还有一个文件夹 里面有css和js 分别确定样式排版和计算功能实现 css应该有自动生成的工具
+命名格式：  名字.html    文件夹：名字_files
 
-
-#### Response#1：What does this section say?
-As the beginning of the whole story, this section mainly introduced four characters' basic information and their implied meanings:
-The maze:the place where you look for what you want.
-The mice
-	Sniff:Who sniffs out change early
-	Scurry:Who scurries into action
-The little people
-	Hem:Who denies and resists change as he fears it will lead to something worse.
-	Haw:Who learns to adapt in time when he sees changing can lead to something better.
-Then comes to the finding process of the cheese for each team with different methods in the maze. After finding the cheese, they enjoyed it and gradually they took it for granted as if the cheese would never disappear.
-However, complete happiness without any worry and plan indicates that something bad is going to happen in the near future, just like the old Chinese saying goes:" Life is unpredictable. Fortune and misfortune are two buckets in the same well. "(祸福相依）
-LET'S WAIT AND SEE
-
-#### Response#2:What does this section mean for me?
-It is true that "Pride goes before a fall". As we lose the sense of risks and only indulge in happiness, we are short-sighted and are vulnerable to changes and unexpcted accidents. I once fell in love with a girl and immersed myself in love. Unfortunately we did not go to the same university or city. And  this love was broken due to lack of communication and trust. Sad story, isn't it? The lesson learned is that I should always be alert when great things happen. Stretegy and plan for future is always a must!
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
----------------------------------------------------------------------------------------
+### 下面是md格式博客的用法
+[语法教程](https://guides.github.com/features/mastering-markdown/）
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-Please ignore things below
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jg8421/jg-blog/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
