@@ -12,7 +12,7 @@ Hope you enjoy them!
 
 
 #### Response#1：What does this section say?
-As the beginning of the whole story, this section mainly introduced four characters' basic information and implied meanings:
+As the beginning of the whole story, this section mainly introduced four characters' basic information and their implied meanings:
 The maze:the place where you look for what you want.
 The mice
 	Sniff:Who sniffs out change early
@@ -20,11 +20,12 @@ The mice
 The little people
 	Hem:Who denies and resists change as he fears it will lead to something worse.
 	Haw:Who learns to adapt in time when he sees changing can lead to something better.
-Then comes to the finding process of the cheese for each team with different methods in the maze. After finding the cheese, they enjoyed it and gradually they took it for granted as of the cheese would never disappear.
-However, complete happiness without any worry and plan implies that something bad is going to happen in the near future, just like the old Chinese saying:" Life is unpredictable. Fortune and misfortune are two buckets in the same well. "(祸福相依）
+Then comes to the finding process of the cheese for each team with different methods in the maze. After finding the cheese, they enjoyed it and gradually they took it for granted as if the cheese would never disappear.
+However, complete happiness without any worry and plan indicates that something bad is going to happen in the near future, just like the old Chinese saying goes:" Life is unpredictable. Fortune and misfortune are two buckets in the same well. "(祸福相依）
 LET'S WAIT AND SEE
+
 #### Response#2:What does this section mean for me?
-It is true that "Pride goes before a fall". As we lose the sense of risks and only indulge in happiness, we are short-sighted and are vulnerable to changes and unexpcted accidents. I once fell in love with a girl and immerse myself in love. Unfortunately we did not went to the same university. And  this love was broken due to lack of communication and trust. Sad story, isn't it? The lesson learned is that I should always be alert when great things happens. Stretegy and plan for future is always a must!
+It is true that "Pride goes before a fall". As we lose the sense of risks and only indulge in happiness, we are short-sighted and are vulnerable to changes and unexpcted accidents. I once fell in love with a girl and immersed myself in love. Unfortunately we did not go to the same university or city. And  this love was broken due to lack of communication and trust. Sad story, isn't it? The lesson learned is that I should always be alert when great things happen. Stretegy and plan for future is always a must!
 
 
 
