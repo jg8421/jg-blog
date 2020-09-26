@@ -27,6 +27,27 @@ LET'S WAIT AND SEE
 #### Response#2:What does this section mean for me?
 It is true that "Pride goes before a fall". As we lose the sense of risks and only indulge in happiness, we are short-sighted and are vulnerable to changes and unexpcted accidents. I once fell in love with a girl and immersed myself in love. Unfortunately we did not go to the same university or city. And  this love was broken due to lack of communication and trust. Sad story, isn't it? The lesson learned is that I should always be alert when great things happen. Stretegy and plan for future is always a must!
 
+---------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ```
