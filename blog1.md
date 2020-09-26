@@ -26,7 +26,12 @@ However, complete happiness without any worry and plan indicates that something 
 LET'S WAIT AND SEE
 
 #### Response#2:What does this section mean for me?
-It is true that "Pride goes before a fall". As we lose the sense of risks and only indulge in happiness, we are short-sighted and are vulnerable to changes and unexpcted accidents. I once fell in love with a girl and immersed myself in love. Unfortunately we did not go to the same university or city. And  this love was broken due to lack of communication and trust. Sad story, isn't it? The lesson learned is that I should always be alert when great things happen. Stretegy and plan for future is always a must!
+It is true that "Pride goes before a fall". As we lose the sense of risks and only indulge in happiness, we are short-sighted and are vulnerable to changes and unexpcted accidents. I once fell in love with a girl and immersed myself in love. 
+![love](https://ns-strategy.cdn.bcebos.com/ns-strategy/upload/fc_big_pic/part-00272-1730.jpg)
+
+Unfortunately we did not go to the same university or city. And  this love was broken due to lack of communication and trust. Sad story, isn't it? The lesson learned is that I should always be alert when great things happen. Stretegy and plan for future is always a must!
+
+
 ![break_up](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2723260932,827025760&fm=26&gp=0.jpg)
 
 
