@@ -14,6 +14,10 @@ The two little people began to accept the cruel fact and become angry and sad. W
 ![hu](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=422837717,2145247103&fm=26&gp=0.jpg)
 
 ### 2.My personal story in terms of "If You Do Not Change, You Can Become Extinct."
+According to Darwin's theory of evolution, the fittest survive, the unfit are eliminated, which is also the case in our lives. In fact, there are many accidents in our life, and they are in the dynamic process of constant change. Some famous people once said that in this era, the biggest constant is change! Therefore, we need to have the ability to adapt to circumstances in order to stand and develop in society. From my personal experience, I have experienced a lot of unexpected things. In fact, many things are not what you want to do. There is nothing you can do. The only thing you can do is to be well prepared, so that when changes come, you can try to adapt and reverse the profits and losses. Even if you can't achieve the expected goal, don't be anxious or sad, just make progress next time. So the first point I want to discuss in this article is that we need to be prepared for danger in times of peace and cultivate our ability to cope with changes.
+![hu](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=152622775,1737714028&fm=26&gp=0.jpg)
+Secondly, I would like to say that we also need to have a resilient heart, that is to say, when our results do not meet our expectations, we also need to look at it with a normal mind. I used to be a very depressed teenager. I was always sad for something I couldn't change, such as failing in exams and competitions. But my friend comforted me and said, "Life is very painful, it's better to be optimistic.". After that, I became more optimistic, and at the same time, I could plan my life, study and work with an ordinary mind.
+![hdu](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3760492477,2156709588&fm=26&gp=0.jpg)
 
 
 
