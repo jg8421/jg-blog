@@ -4,53 +4,30 @@
 
 ### The main idea for the section
 ##### Old beliefs do not lead you to new cheese.
-
-
-![hus](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3784047080,3540536574&fm=15&gp=0.jpg)
+Haw finally understand that the fear is not that bad and it is to some degree imaginary, which in turn stopped him from trying. But after he started the trip, everything is gradually getting better. Then the writer echoed Haw's earlier thoughts that Haw thought too much about failure rather than possible good outcomes. He then realized that he should chase for change, but not let the change overwhelm himself.
 ##### When you see that you can find and enjoy new cheese, you change course.
-
-
+Haw realized that new views and beliefs are changing his behaviors. The belief for success actually helped him find the cheese.
 
 ### My personal story with regard to them
-##### 1. Old beliefs do not lead you to new cheese.
+As the themes of the two sections are very similar, I intend to combine the two sections together. I would like to talk about the relationship between thought and action. The core logic is very simple: after a person's cognition changes, his actions will also change accordingly.
 
-This section reminds me of an old Chinese saying: the old does not go, the new does not come. Roughly speaking, the death of an old thing can facilitate the arrival of something new. Rather than taking it literally, I think on a deeper level, the key is not the existence or disappearance of the thing itself, but the psychological impact it has on you, including your view of the past and your expectation of the future. It's no use crying over spilt milk. At such times, the most effective and constructive thing we can do is to move on and not let what is missing become a psychological burden.
-![hus](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=3342669949,2393827203&fm=26&gp=0.jpg)
-In addition, it is worth noting that we human beings live in a highly competitive society with extremely limited resources, just like the earth is round. So time is as important as money, and efficiency is as important as life. In the book, Haw's indecision and psychological burden led him to the station where others had arrived. It was just like we failed to have insight into a trend of the industry in the society and thus fell behind our competitors. Because of the winner-take-all situation caused by Matthew effect, we could hardly get rich returns. This requires us to avoid all emotional interference, be the fastest runner.
-"The quicker you let go of old cheese, The sooner you find new cheese." And I like to change that to "The quicker you let go of imagination, The bigger Success you can achieve."
-![hus](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605887106846&di=980caf14be501338e9112b707a87cd92&imgtype=0&src=http%3A%2F%2Fupcdn.mpres.51vv.com%2Fv_block%2Fe6b250d230908b7bb465912d28ec0ce1.jpg)
-
-
-##### 2. When you see that you can find and enjoy new cheese, you change course.
-
-
-I found a very magical phenomenon, each section can recall a sentence in my mind, most of which are traditional Chinese proverbs I have recited before, and this section is no exception. This makes me deeply feel the breadth and profundity of Chinese traditional culture, the profound thinking of our ancestors on philosophy of life and the understanding of the unity of the world, because they originated from the literary works of two different countries, but actually produced the same essence. This section reminds me of the traditional Chinese saying: "Do your best and listen to the destiny".
-It means that when things are not something we can decide, the best thing to do is to do our best and let God decide the final result. This is probably the general idea of this section.
-![hus](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=4257502590,334040909&fm=26&gp=0.jpg)
-
-But I want to talk about something else, it's about psychology. In the article, although haw misses hem very much, he also feels the joy of overcoming his fear. I think the source of his happiness lies in his actions. Most of the time, it is not to say that we will feel happy and happy after we have made great achievements, because after knowing the achievements, our happiness will decrease, because there is no new stimulus coming. However, haw is not happy when he finally finds big cheese, but in the process of hard working and in the process of constantly looking for continuous progress. This happiness is sustainable, endless and steady. This happiness is even increasing, because as he finds small pieces of cheese, he is constantly getting positive feedback, and his self-confidence will grow stronger and stronger until he finds big cheese.
-![hus](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2527461402,3079429934&fm=26&gp=0.jpg)
-On the contrary, hem doesn't accept the cheese brought by haw, and he still thinks about the old cheese. In the process, he doesn't act, so he feels helpless, desperate and painful. In this case, it is better to act than to wait. Search in the maze corresponds to action, while remaining at the cheese station corresponds to staying still. Some people may say that there is danger in action, but it is safe to stay where you are without cheese to eat. But think carefully, if you stay in the same place all the time, I think they will starve to death or be afraid to die before they encounter the imaginary danger, and the imaginary danger even doesn't exist. How can you know if you don't try?
-From the above discussion, we can understand why continuous action is even safer than staying still.
-This is just like we are growing up step by step, from primary school to junior high school, to senior high school, and finally to university. This step by step seems to be full of risks and challenges, but we can't stop because it is more dangerous. You see, today, we have made great achievements after overcoming numerous small difficulties.
-![hus](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1605889012574&di=b1248e990e645f5270065d0dd461d4c1&imgtype=0&src=http%3A%2F%2Fbpic.588ku.com%2Fback_pic%2F05%2F07%2F14%2F58597302df714aa.jpg)
+When I was a child, I was often taught that it does not matter how you thought and what you do, but the result is what really matters. This is true, because in most cases in the world, results are decisive, but this dogma also has its drawbacks: it ignores the importance of thought and action, so that we may confine our thoughts to results and less consider the impact of changes in thought and cognition on action. Ironically, the latter is often the basis, premise and source of results. It is not difficult for us to understand that some students only pursue academic achievements, but ignore the essence and purpose of learning: to know the world and to know ourselves. Therefore, our society has produced many excellent academic achievements, but can not make great contributions to human society; or there are extremely selfish, hypocritical people who infringe on public rights and interests.
+![hus](
+https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=933782846,956015298&fm=26&gp=0.jpg)
+To get to the point, we continue to explore the relationship between thought and action. It has been said that the essential difference between man and animal is that man can think. Most of the time, our human actions and decisions are based on our thoughts and perceptions, so simply put, our thoughts and perceptions will know and determine our actions. At this time, if we do not have the correct understanding, but blindly pursue the results, on the one hand, we will probably fail, because we do not grasp the skills of action; on the other hand, even if successful, this success can not be duplicated, so it is a bubble. And if we can have a correct understanding of things, and meet the requirements from the ideological level, then we will get twice the result with half the effort, and we will succeed faster under the power of spirit.
+![hus](
+https://tse3-mm.cn.bing.net/th/id/OIP.BAoO_N6VKn0ywybuZ9CkYwHaHa?w=163&h=180&c=7&o=5&dpr=1.82&pid=1.7)
+On the other hand, according to what I learned in thinking, fast and slow, a very well-known book, our brains have two ways of making decisions: fast and slow. The commonly used unconscious "system 1" relies on emotion, memory and experience to make quick judgments. It is well-known and enables us to quickly respond to the situation in front of us. But system 1 is also easy to be fooled. It adheres to the principle that "seeing is the fact", and allows the illusion of loss aversion and optimistic bias to guide us to make the wrong choice. Conscious "system 2" analyzes and solves problems and makes decisions by mobilizing attention. It is slow and not easy to make mistakes, but it is lazy and often takes short cuts and directly adopts the intuitive judgment results of system 1.
+![hus](
+https://tse2-mm.cn.bing.net/th/id/OIP.FU7JF8p9SnKtjwHnxGSOTgHaCe?w=350&h=117&c=7&o=5&dpr=1.82&pid=1.7)
+In my understanding, system 1 is our inherent idea, just like the pre installed IE browser in the computer system. Its advantage is that it can be used immediately and is more convenient, but most of the functions we need can not be realized. Under the stimulation of some things, our conscious system 2 will take the upper hand. After processing and processing by the brain, we will suddenly realize and thoroughly understand Change our thinking and cognition, and new ideas will prompt us to take action; at this time, it's just like we encounter many difficulties in using computer browser, which also changes our action: looking for a better browser, until one day, we meet Google browser. As a result, the new browser has revolutionized our productivity and met a wide range of needs.
 
 
+Therefore, if we want to succeed by reasoning backward, just as haw wants to find cheese, we must take corresponding actions, and action needs motivation, which comes from the change or even subversion of our thinking and cognition. Therefore, when I encounter bottlenecks or unsolvable problems in my work, study or life, I tend to check my own thoughts to see if I have the correct cognition and view on things. After correcting my ideas and taking action again, I believe there will be great improvement.
 
 
 
 ---------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
 
 
 
