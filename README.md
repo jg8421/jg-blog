@@ -7,18 +7,20 @@ Each article includes two sub-responses:
 	Response#2:What does this section mean for me?
 Hope you enjoy them!
 
-### Below are some customs of the website syntax and tricks
-
-1、https://jg8421.github.io/jg-blog/blog1  
-跳转到首页的blog1.md 所以自动省略md即可！！！！
-2、.md格式非常好用 基本上不用代码 专为博客设计
-3、首页的config.yml文件表示的是博客主题 一定不要删了
-4、首页的xml是之前的项目 可以实现rss订阅 不用管它
-5、如果是html格式网页需要两个文件：
-一个是主页html 
-还有一个文件夹 里面有css和js 分别确定样式排版和计算功能实现 css应该有自动生成的工具
-命名格式：  名字.html    文件夹：名字_files
-
+### Below are the 10 Hyperlinks of the blogs. Feel free to click on them and read.
+[Having cheese makes you happy！](https://jg8421.github.io/jg-blog/blog1)
+[GitHub](https://jg8421.github.io/jg-blog/blog1)
+[The more important your cheese is to you the more you want to hold on to it.](https://jg8421.github.io/jg-blog/blog2)
+[If You Do Not Change, You Can Become Extinct.](https://jg8421.github.io/jg-blog/blog3)
+[What would you do if you weren’t afraid?](https://jg8421.github.io/jg-blog/blog4)
+[Smell the Cheese Often So You Know When It Is Getting Old](https://jg8421.github.io/jg-blog/blog5)
+[Movement In A New Direction Helps You Find New Cheese.](https://jg8421.github.io/jg-blog/blog6)
+[WHEN YOU STOP BEING AFRAID, YOU FEEL GOOD!&IMAGINING YOURSELF ENJOYING YOUR NEW CHEESE LEADS YOU TO IT](https://jg8421.github.io/jg-blog/blog7)
+[The quicker you let go of old cheese, the sooner you find new cheese.&It is safer to search in the maze than remain in a cheeseless situation
+](https://jg8421.github.io/jg-blog/blog8)
+[Old beliefs do not lead you to new cheese.&When you see that you can find and enjoy new cheese, you change course.](https://jg8421.github.io/jg-blog/blog9)
+[NOTICING SMALL CHANGES EARLY HELPS YOU ADAPT TO THE BIGGER CHANGES THAT ARE TO COME&MOVE WITH THE CHEESE AND ENJOY IT!](https://jg8421.github.io/jg-blog/blog10)
+ 
 ### 下面是md格式博客的用法
 https://guides.github.com/features/mastering-markdown/   
 自行复制
